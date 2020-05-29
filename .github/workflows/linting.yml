@@ -1,4 +1,4 @@
-name: PHP Linting and Code Sniff
+name: PHP Linting
 on:
   pull_request
 jobs:
