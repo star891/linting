@@ -1,5 +1,10 @@
-name: PHP Linting
-on: pull_request
+name: PHP Linting and Code Sniff
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+    paths:
+      - 'src/**.php'
+      - '*.php'
 jobs:
   phplint:
     runs-on: ubuntu-latest
