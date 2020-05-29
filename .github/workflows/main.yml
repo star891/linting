@@ -13,5 +13,3 @@ jobs:
         - uses: michaelw90/PHP-Lint@master
         - name: PHPCS check
           uses: chekalsky/phpcs-action@v1
-          with:
-            basepath: ./
