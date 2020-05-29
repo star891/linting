@@ -1,15 +1,9 @@
 name: PHP Linting and Code Sniff
 on:
-  pull_request:
-    types: [opened, edited, synchronize, reopened]
-    paths:
-      - 'src/**.php'
-      - '*.php'
+  pull_request
 jobs:
   phplint:
     runs-on: ubuntu-latest
     steps:
         - uses: actions/checkout@v1
         - uses: michaelw90/PHP-Lint@master
-        - name: PHPCS check
-          uses: chekalsky/phpcs-action@v1
