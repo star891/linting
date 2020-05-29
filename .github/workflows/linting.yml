@@ -6,3 +6,5 @@ jobs:
     steps:
         - uses: actions/checkout@v1
         - uses: michaelw90/PHP-Lint@master
+        - name: PHPCS check
+          uses: chekalsky/phpcs-action@v1
