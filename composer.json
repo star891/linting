@@ -1,4 +1,6 @@
 {
+    "mame": "sky/high",
+    "description": "Test linting",
     "require": {
         "joshtronic/php-loremipsum": "^1.0"
     }
