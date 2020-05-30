@@ -8,7 +8,5 @@
         }
     ],
     "require": {
-        "joshtronic/php-loremipsum": "^1.0",
-        "squizlabs/php_codesniffer": "*"
     }
 }
