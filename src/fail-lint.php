@@ -1,8 +1,5 @@
 <?php
 
-echo 'failed';
-
-
 function test()
 {
     $test = true;
