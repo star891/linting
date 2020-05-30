@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "483ce66da425bbb05c33a945efa82562",
+    "content-hash": "6b04bef0ed0f30da10e5d4242d51b870",
     "packages": [
         {
             "name": "joshtronic/php-loremipsum",

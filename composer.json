@@ -1,6 +1,12 @@
 {
-    "mame": "sky/high",
-    "description": "Test linting",
+    "name": "mhoss1203/linting",
+    "description": "Linting test",
+    "authors": [
+        {
+            "name": "Musfiq Hossain",
+            "email": "only.musfiq@gmail.com"
+        }
+    ],
     "require": {
         "joshtronic/php-loremipsum": "^1.0"
     }
