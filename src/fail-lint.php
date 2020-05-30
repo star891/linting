@@ -3,12 +3,11 @@
 echo 'failed';
 
 
-function test() {
-
-$test = TRUE;
+function test()
+{
+    $test = true;
  
-echo "www";
+    echo "www";
 
-		return 0;
-
+    return 0;
 }
