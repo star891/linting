@@ -1,10 +1,20 @@
 <?php
 
-function test()
-{
-    $test = true;
+
+echo "ttt";
+function test()   {
+    $test = TRUE;
+
+
+
+
  
     echo "www";
 
+
+
+
     return 0;
+
+
 }
