@@ -2,12 +2,11 @@
 
 
 
-function test(){
-    $test = TRUE;
+function test()
+{
+    $test = true;
 
-	
+    
     echo "www";
     return 0;
-
-
 }
