@@ -3,7 +3,7 @@
 
 function test()
 {
-    $test = TRUE;
+    $test = true;
 
     
     echo "www";
