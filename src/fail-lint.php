@@ -1,11 +1,12 @@
 <?php
 
 
-function test()
-{
-    $test = true;
+function test() {
+    $test = TRUE;
 
     
     echo "www";
     return 0;
+
+
 }
