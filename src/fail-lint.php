@@ -1,10 +1,9 @@
 <?php
 
 
-
 function test()
 {
-    $test = true;
+    $test = TRUE;
 
     
     echo "www";
