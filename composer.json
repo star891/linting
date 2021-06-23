@@ -17,8 +17,5 @@
    },
    "scripts": {
      "phpcs": "./vendor/bin/phpcs --standard=PSR2 -v ./src"
-   },
-    "require": {
-        "friendsofphp/php-cs-fixer": "^2.16"
-    }
+   }
 }
