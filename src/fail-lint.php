@@ -3,6 +3,6 @@
 function test()
 {
     $test = true;
-    echo "www";
+    echo "www"
     return 0;
 }
